@@ -1,0 +1,3 @@
+# Scripts
+
+Workspace automation scripts.
